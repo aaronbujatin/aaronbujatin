@@ -1,16 +1,21 @@
 ### Hi there 👋
-![Header](./[github-header-image](https://github.com/aaronbujatin/aaronbujatin/assets/94673180/3306792a-b20d-48ad-a6c1-9bdb55a9eca4])
 
-**aaronbujatin/aaronbujatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Aaron](https://github.com/aaronbujatin/aaronbujatin/assets/94673180/3306792a-b20d-48ad-a6c1-9bdb55a9eca4)
 
-Here are some ideas to get you started:
+# Hello, I'm [Aaron] 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a passionate Java Spring developer, dedicated to crafting robust and scalable solutions. ☕
 
+
+👨‍💻 About Me:
+- 🌱 I'm experienced in Java Spring and love turning ideas into functional code.
+- 🔧 I'm constantly exploring new technologies to improve my skills.
+- 🚀 I'm enthusiastic about building scalable and efficient applications.
+
+🔗 Technology/Stack :
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,postman,angular,java,spring,mysql,mongodb,idea)](https://skillicons.dev)
+
+📚 Check out my repositories for some cool Java Spring projects!
+
+Thanks for visiting my README. Happy coding! 🚀 
