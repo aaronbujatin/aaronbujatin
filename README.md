@@ -2,7 +2,7 @@
 
 ![Aaron](https://github.com/aaronbujatin/aaronbujatin/assets/94673180/3306792a-b20d-48ad-a6c1-9bdb55a9eca4)
 
-# Hello, I'm [Aaron] 👋
+# Hello, I'm Aaron 👋
 
 I'm a passionate Java Spring developer, dedicated to crafting robust and scalable solutions. ☕
 
