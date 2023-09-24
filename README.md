@@ -1,6 +1,6 @@
 ### Hi there 👋
+![Header](./[github-header-image](https://github.com/aaronbujatin/aaronbujatin/assets/94673180/3306792a-b20d-48ad-a6c1-9bdb55a9eca4])
 
-<!--
 **aaronbujatin/aaronbujatin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
