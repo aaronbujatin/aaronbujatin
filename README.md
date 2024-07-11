@@ -14,7 +14,7 @@ I'm a passionate Java Spring developer, dedicated to crafting robust and scalabl
 
 🔗 Technology/Stack :
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,postman,angular,java,spring,mysql,mongodb,idea,git,maven,docker,junit)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,postman,angular,java,spring,mysql,mongodb,idea,git,maven,docker)](https://skillicons.dev)
 
 📚 Check out my repositories for some cool Java Spring projects!
 
